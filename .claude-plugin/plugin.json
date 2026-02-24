@@ -1,0 +1,20 @@
+{
+  "name": "video-dubbing",
+  "version": "1.0.0",
+  "description": "Dub English videos to Chinese using Qwen3 TTS with WhisperX transcription and MiniMax translation. Use when dubbing videos, creating Chinese voiceovers, or localizing video content.",
+  "author": {
+    "name": "Growth Team",
+    "url": "https://github.com/thaddeus-git"
+  },
+  "repository": "https://github.com/thaddeus-git/dubbing",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "dubbing",
+    "tts",
+    "chinese",
+    "translation",
+    "qwen",
+    "whisperx"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dubbing",
+  "owner": {
+    "name": "Growth Team",
+    "url": "https://github.com/thaddeus-git"
+  },
+  "plugins": [
+    {
+      "name": "video-dubbing",
+      "source": "./",
+      "description": "Dub English videos to Chinese using Qwen3 TTS",
+      "version": "1.0.0"
+    }
+  ]
+}

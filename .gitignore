@@ -1,0 +1,42 @@
+# Credentials - NEVER commit these
+config.yaml
+**/api_key*
+**/.env
+**/credentials*
+
+# Output files
+workspace/output/
+output/
+*.mp4
+*.mp3
+*.wav
+*.srt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+_model_cache/
+*.bin
+*.safetensors
+
+# Temp files
+*.tmp
+*.temp
+workspace/qwen3_demo/
